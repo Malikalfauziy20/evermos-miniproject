@@ -1,5 +1,5 @@
-   .env
-   uploads/produk/*
-   uploads/toko/*
-   !uploads/produk/.gitkeep
-   !uploads/toko/.gitkeep
+.env 
+uploads/produk/* 
+uploads/toko/* 
+!uploads/produk/.gitkeep 
+!uploads/toko/.gitkeep 
